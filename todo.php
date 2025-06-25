@@ -108,8 +108,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
 
-<!-- Empty commit -->
- 
 <div class="container">
     <h2>Todo List</h2>
 
